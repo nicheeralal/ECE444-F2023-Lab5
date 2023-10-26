@@ -1,6 +1,16 @@
 ECE444 Lab 5 Nicholas Heeralal
 
-What are the pros and cons of TDD?
+Q1. This is my repository where I replayed the example on https://github.com/mjhea0/flaskr-tdd.
+I followed the instructions from "First Test" to "Conclusion" and skipped the steps for "Deployment" and "Postgres Heroku".
+If you look at commit history, you can see commits for each section.
+
+Q2. Unit tests I wrote for my teams project were test_index_not_logged_in, test_register_new_user and test_register_existing_user which
+ can be found at this link: https://github.com/ECE444-2023Fall/project-1-web-application-design-group25-pixelpals/blob/main/react-flask-app/api/tests/test_app.py 
+ In case that link is broken, these test cases were introduced in this commit:
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group25-pixelpals/commit/1c4a0c4fc13c2543c86b8da7d6ca716967a0dd6a
+More specifically, in commit commit 1c4a0c4 of Group 25's repository.
+
+Q3. What are the pros and cons of TDD?
 
 My answer:
 Pros of TDD:
